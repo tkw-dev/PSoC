@@ -1,0 +1,1915 @@
+Cmp-Mod V01 Created by PcbNew   date = 2023/05/05 14:19:44
+
+BeginCmp
+TimeStamp = 722128ba-03ea-44ce-979b-0ad1e599378e
+Path = /7e842259-b6f9-4a32-b870-e39ced1172eb
+Reference = FB1;
+ValeurCmp = BLM18KG601SZ1D;
+IdModule  = SamacSys_Parts:BLM18EG121SH1D;
+EndCmp
+
+BeginCmp
+TimeStamp = bcc074df-826c-4367-b799-dac832c96939
+Path = /0f648fc3-240c-4e00-bd3b-7786dbfb344c
+Reference = C3;
+ValeurCmp = UCQ1V470MCL1GS;
+IdModule  = SamacSys_Parts:CAPAE660X780N;
+EndCmp
+
+BeginCmp
+TimeStamp = a7b150c9-914b-4637-aa5a-ea056cf998c6
+Path = /de8a02ba-8cd0-41f9-9fba-8053ec46f530
+Reference = C12;
+ValeurCmp = GCM155R71H104KE02D;
+IdModule  = SamacSys_Parts:CAPC1005X55N;
+EndCmp
+
+BeginCmp
+TimeStamp = bd6033e1-4190-47c5-88c0-b85130da48b5
+Path = /b21a6278-b3c1-4084-a9f0-fed014be57ca
+Reference = C11;
+ValeurCmp = GCM155R71H104KE02D;
+IdModule  = SamacSys_Parts:CAPC1005X55N;
+EndCmp
+
+BeginCmp
+TimeStamp = 19ed13db-3449-4b83-af13-7b0898504017
+Path = /9a1f6b66-672b-4866-b36c-33838317b87b
+Reference = C9;
+ValeurCmp = GCM155R71H104KE02D;
+IdModule  = SamacSys_Parts:CAPC1005X55N;
+EndCmp
+
+BeginCmp
+TimeStamp = 62b3de8d-29a8-49b3-8912-34c00c0fd0d6
+Path = /d9a2b36c-3ec1-486c-acda-18c5b8215877
+Reference = C8;
+ValeurCmp = GCM155R71H104KE02D;
+IdModule  = SamacSys_Parts:CAPC1005X55N;
+EndCmp
+
+BeginCmp
+TimeStamp = 11d9d49f-9f3e-4916-95e4-cf99c9511387
+Path = /c83cd62b-924c-4b48-acfc-b4ea10b1eb61
+Reference = C1;
+ValeurCmp = GCM155R71H104KE02D;
+IdModule  = SamacSys_Parts:CAPC1005X55N;
+EndCmp
+
+BeginCmp
+TimeStamp = aa162667-5336-4add-97f0-357b26542a38
+Path = /3614e066-d0ae-41c3-afaa-5e0130bad1be
+Reference = C7;
+ValeurCmp = GCM155R71H104KE02D;
+IdModule  = SamacSys_Parts:CAPC1005X55N;
+EndCmp
+
+BeginCmp
+TimeStamp = c16b2aeb-b570-470c-9302-8fca9d3c3e88
+Path = /ff53fcdb-ebef-4bcc-9cbf-8493c0fb33a3
+Reference = C6;
+ValeurCmp = GCM155R71H104KE02D;
+IdModule  = SamacSys_Parts:CAPC1005X55N;
+EndCmp
+
+BeginCmp
+TimeStamp = 97add282-e152-4b50-a1ef-6645f1c8d4a1
+Path = /cef36c6e-2df1-4a19-8a88-010b521ad30e
+Reference = C5;
+ValeurCmp = GCM155R71H104KE02D;
+IdModule  = SamacSys_Parts:CAPC1005X55N;
+EndCmp
+
+BeginCmp
+TimeStamp = 2f2b82b0-47c6-497d-8b82-581742ccda64
+Path = /128b584f-17a3-4fc6-bef1-595730e9d4c1
+Reference = C16;
+ValeurCmp = GCM155R71H104KE02D;
+IdModule  = SamacSys_Parts:CAPC1005X55N;
+EndCmp
+
+BeginCmp
+TimeStamp = aded602b-1ce4-4108-a31f-862e11f1f865
+Path = /3be89b4f-3e51-4d36-9b93-05bb137d79fc
+Reference = C4;
+ValeurCmp = GCM155R71H104KE02D;
+IdModule  = SamacSys_Parts:CAPC1005X55N;
+EndCmp
+
+BeginCmp
+TimeStamp = 0c1b7ca2-21c7-44fe-8992-265e2484ed54
+Path = /d0a54097-0c98-482d-a2a5-dae30a13a97d
+Reference = C2;
+ValeurCmp = GCM155R71H104KE02D;
+IdModule  = SamacSys_Parts:CAPC1005X55N;
+EndCmp
+
+BeginCmp
+TimeStamp = 708504d2-5f0b-4d3c-822c-7c20aa0f6041
+Path = /adf61073-fe33-4b7d-a277-f3e58bd423a4
+Reference = C10;
+ValeurCmp = GRM155R71C104KA88D;
+IdModule  = SamacSys_Parts:CAPC1005X55N;
+EndCmp
+
+BeginCmp
+TimeStamp = 018c13c9-6d72-4e47-a839-80ea6ab6b985
+Path = /69787121-fd79-4797-b50e-749db07524b0
+Reference = C26;
+ValeurCmp = GCM155R71H104KE02D;
+IdModule  = SamacSys_Parts:CAPC1005X55N;
+EndCmp
+
+BeginCmp
+TimeStamp = b153cefd-f40c-4353-a7ef-e35e028573f0
+Path = /58b19b2a-0f76-4096-8e54-8cb6f24d2141
+Reference = C24;
+ValeurCmp = GCM155R71H104KE02D;
+IdModule  = SamacSys_Parts:CAPC1005X55N;
+EndCmp
+
+BeginCmp
+TimeStamp = 0fbbbeb8-a49d-44ea-96a1-37418ee2f1ab
+Path = /740a6c29-8f31-4b48-9b2b-9053bacd2e56
+Reference = C23;
+ValeurCmp = GCM155R71H104KE02D;
+IdModule  = SamacSys_Parts:CAPC1005X55N;
+EndCmp
+
+BeginCmp
+TimeStamp = f5ce983e-35bd-4adf-bbee-1b92324ebeab
+Path = /6bd176bc-8321-4b1e-b5c1-8e377a4c37b8
+Reference = C22;
+ValeurCmp = GCM155R71H104KE02D;
+IdModule  = SamacSys_Parts:CAPC1005X55N;
+EndCmp
+
+BeginCmp
+TimeStamp = 427e49c8-0e81-431c-9009-9a5e7677dfd2
+Path = /4badaa1d-d8ab-4b91-9b19-5a05a69469bc
+Reference = C19;
+ValeurCmp = GCM155L81E103KA37D;
+IdModule  = SamacSys_Parts:CAPC1005X55N;
+EndCmp
+
+BeginCmp
+TimeStamp = a90e2c4b-647a-4465-8a0a-5dcde4c16ad1
+Path = /0c804ca0-7bc2-4420-bea0-dc85871f09af
+Reference = C18;
+ValeurCmp = GCM155R71H104KE02D;
+IdModule  = SamacSys_Parts:CAPC1005X55N;
+EndCmp
+
+BeginCmp
+TimeStamp = 8756a980-0fef-46a2-84db-61bbc43cc13d
+Path = /19e1cc37-422b-4251-9a7a-1512cf8a19f7
+Reference = C17;
+ValeurCmp = GRM155R71C104KA88D;
+IdModule  = SamacSys_Parts:CAPC1005X55N;
+EndCmp
+
+BeginCmp
+TimeStamp = 1934b4de-4674-4477-94c4-1e6d6de64d7f
+Path = /d7daab6e-384b-480f-8753-70afb7c761a3
+Reference = C15;
+ValeurCmp = GCM155R71H104KE02D;
+IdModule  = SamacSys_Parts:CAPC1005X55N;
+EndCmp
+
+BeginCmp
+TimeStamp = 924a1be8-21e6-4822-8d0b-37a5b1b9ae32
+Path = /8e6f7846-4627-4b5d-9d0b-49042349a40b
+Reference = C14;
+ValeurCmp = GCM155R71H104KE02D;
+IdModule  = SamacSys_Parts:CAPC1005X55N;
+EndCmp
+
+BeginCmp
+TimeStamp = 0a739943-2092-425a-b440-2197d126782d
+Path = /910ccc8d-254f-418b-aab2-60739bc216dc
+Reference = C13;
+ValeurCmp = GCM155R71H104KE02D;
+IdModule  = SamacSys_Parts:CAPC1005X55N;
+EndCmp
+
+BeginCmp
+TimeStamp = 4e5426f9-0bfd-490c-a4d1-c4440fe87d14
+Path = /f552bee6-12c0-4629-b5b3-8a73703290af
+Reference = C27;
+ValeurCmp = CGA3E2X5R1A105M080AA;
+IdModule  = SamacSys_Parts:CAPC1608X90N;
+EndCmp
+
+BeginCmp
+TimeStamp = 6fe02c62-f64c-4c65-8e33-0dee1c90db46
+Path = /4d5e11f4-9400-4db8-8364-93033d64e602
+Reference = C28;
+ValeurCmp = CGA3E2X5R1A105M080AA;
+IdModule  = SamacSys_Parts:CAPC1608X90N;
+EndCmp
+
+BeginCmp
+TimeStamp = 3f07cbfe-7bf7-43d7-b165-c818b64f8542
+Path = /d46546b2-4785-416f-aca3-07aa91722a25
+Reference = C20;
+ValeurCmp = CL10B104JB8NNNC;
+IdModule  = SamacSys_Parts:CAPC1608X90N;
+EndCmp
+
+BeginCmp
+TimeStamp = e0ac17b8-f93f-40dc-abc3-d8342b7871a4
+Path = /5f653c89-8b32-4ee3-94d8-405793c3bbee
+Reference = C21;
+ValeurCmp = CGA3E2X5R1A105M080AA;
+IdModule  = SamacSys_Parts:CAPC1608X90N;
+EndCmp
+
+BeginCmp
+TimeStamp = 22c6828c-c659-4789-bb51-f5a10acfd983
+Path = /1de90dca-15e5-44da-809a-e8a9d799d460
+Reference = C25;
+ValeurCmp = CGA3E2X5R1A105M080AA;
+IdModule  = SamacSys_Parts:CAPC1608X90N;
+EndCmp
+
+BeginCmp
+TimeStamp = 37c16d31-1f12-4651-839a-166e7983202e
+Path = /55309e32-ccca-4dbf-9941-5517b5808b88
+Reference = FL2;
+ValeurCmp = DLW43SH510XK2L;
+IdModule  = SamacSys_Parts:DLW43SH110XK2K;
+EndCmp
+
+BeginCmp
+TimeStamp = cf14cd31-4475-43ae-86d4-1b94d8f5a499
+Path = /e9ba68f0-2429-4b2b-8f44-e440d9e95ddd
+Reference = FL1;
+ValeurCmp = DLW43SH510XK2L;
+IdModule  = SamacSys_Parts:DLW43SH110XK2K;
+EndCmp
+
+BeginCmp
+TimeStamp = 34c7dbe6-99dc-4d50-9093-5635483ecaaf
+Path = /f413bd60-457e-4654-9033-b04703b3b439
+Reference = R38;
+ValeurCmp = ERJ-6ENF1502V;
+IdModule  = SamacSys_Parts:ERJ6ENF1000V;
+EndCmp
+
+BeginCmp
+TimeStamp = 8c7a5091-a9a7-40a2-8ff3-eca3c5e0335e
+Path = /41845044-5e30-4441-b168-7a6b6712d563
+Reference = R39;
+ValeurCmp = ERJ-6ENF1502V;
+IdModule  = SamacSys_Parts:ERJ6ENF1000V;
+EndCmp
+
+BeginCmp
+TimeStamp = c1c578c0-f23e-4ef0-a138-7e1a8c1bb119
+Path = /fe4bf62f-eaf1-413b-936f-8f8b49d3df6a
+Reference = R34;
+ValeurCmp = ERJ-6ENF1502V;
+IdModule  = SamacSys_Parts:ERJ6ENF1000V;
+EndCmp
+
+BeginCmp
+TimeStamp = 48eeeb7a-7e7d-483f-989f-8db1149b311b
+Path = /7149106d-7853-492b-bf94-0c5a78873350
+Reference = R32;
+ValeurCmp = ERJ-6ENF1502V;
+IdModule  = SamacSys_Parts:ERJ6ENF1000V;
+EndCmp
+
+BeginCmp
+TimeStamp = 79abc454-4139-4f47-8035-30dfcb2b2886
+Path = /09bf13b0-bcb0-461b-86f3-e46203ed773a
+Reference = R36;
+ValeurCmp = ERJ-6ENF1502V;
+IdModule  = SamacSys_Parts:ERJ6ENF1000V;
+EndCmp
+
+BeginCmp
+TimeStamp = e48ad28f-a432-4f00-9989-5b8760989f15
+Path = /fc908518-3708-4dbc-b58b-dcb5d430240b
+Reference = R37;
+ValeurCmp = ERJ-6ENF1502V;
+IdModule  = SamacSys_Parts:ERJ6ENF1000V;
+EndCmp
+
+BeginCmp
+TimeStamp = cd89224a-6322-4550-82ab-4564c42f5966
+Path = /0fd97bcb-c50b-4cfb-9a73-61d3abce330a
+Reference = R30;
+ValeurCmp = ERJ-6ENF1502V;
+IdModule  = SamacSys_Parts:ERJ6ENF1000V;
+EndCmp
+
+BeginCmp
+TimeStamp = 186996d5-5e83-4996-8492-cccd5e50344f
+Path = /8fbcfecd-642f-4c96-b56b-3731366841e3
+Reference = R40;
+ValeurCmp = ERJ-6ENF1502V;
+IdModule  = SamacSys_Parts:ERJ6ENF1000V;
+EndCmp
+
+BeginCmp
+TimeStamp = beb4c335-a385-45c8-b185-3c541ca47d4f
+Path = /9e1c2aac-d323-4c37-9dbc-6b8c7009cdc2
+Reference = R35;
+ValeurCmp = ERJ-6ENF1502V;
+IdModule  = SamacSys_Parts:ERJ6ENF1000V;
+EndCmp
+
+BeginCmp
+TimeStamp = 0ba00b63-f852-4b01-9523-c9de6869eda4
+Path = /203b4577-0f57-4663-a4f9-d397cb354fde
+Reference = Z1;
+ValeurCmp = KDZVTR36B;
+IdModule  = SamacSys_Parts:KDZVTR36B;
+EndCmp
+
+BeginCmp
+TimeStamp = 20944c69-3bd0-4b66-b331-ee42ced37421
+Path = /631019c2-f0c9-4605-b998-df3b4fc8d89a
+Reference = LED2;
+ValeurCmp = VLMR233T2V2-GS08;
+IdModule  = SamacSys_Parts:LEDM2214X140N;
+EndCmp
+
+BeginCmp
+TimeStamp = 170a7b0e-e4be-44bd-9175-cc4bf34793fe
+Path = /4ae6b878-8b6b-4789-99de-0c110bd4fa6e
+Reference = LED3;
+ValeurCmp = VLMR233T2V2-GS08;
+IdModule  = SamacSys_Parts:LEDM2214X140N;
+EndCmp
+
+BeginCmp
+TimeStamp = 9301a87d-1222-4359-ae0a-afd6c999614a
+Path = /2f587eca-e3bb-48c1-9bdd-6954c056b4a6
+Reference = LED5;
+ValeurCmp = VLMR233T2V2-GS08;
+IdModule  = SamacSys_Parts:LEDM2214X140N;
+EndCmp
+
+BeginCmp
+TimeStamp = c76c5dbf-85d3-4cbb-8b8d-dfe1b8dfa80d
+Path = /1166b9fe-ffbd-4cce-aa7a-66584259b8e0
+Reference = LED6;
+ValeurCmp = VLMR233T2V2-GS08;
+IdModule  = SamacSys_Parts:LEDM2214X140N;
+EndCmp
+
+BeginCmp
+TimeStamp = 1d1b3add-aec2-4cda-bc4c-93157cd50d75
+Path = /99f7d837-bb6f-41e7-ba7f-9dd195a81e39
+Reference = LED9;
+ValeurCmp = VLMR233T2V2-GS08;
+IdModule  = SamacSys_Parts:LEDM2214X140N;
+EndCmp
+
+BeginCmp
+TimeStamp = 516cd472-c213-4399-aca1-83791f196f7e
+Path = /7c621aa0-95c0-4a5b-beae-788b3ca39225
+Reference = LED4;
+ValeurCmp = VLMR233T2V2-GS08;
+IdModule  = SamacSys_Parts:LEDM2214X140N;
+EndCmp
+
+BeginCmp
+TimeStamp = 89cb5cd3-640d-4e1d-b525-ed1c501eee67
+Path = /95cb8e40-319c-4cb6-a18c-fbe9dd2c2151
+Reference = LED1;
+ValeurCmp = VLMR233T2V2-GS08;
+IdModule  = SamacSys_Parts:LEDM2214X140N;
+EndCmp
+
+BeginCmp
+TimeStamp = 4227f0ac-42f0-4b8f-81e0-57994421d550
+Path = /9b45da82-cb8c-4811-b465-bae532a8b99b
+Reference = LED8;
+ValeurCmp = VLMR233T2V2-GS08;
+IdModule  = SamacSys_Parts:LEDM2214X140N;
+EndCmp
+
+BeginCmp
+TimeStamp = 92a15c1f-be4c-4e73-b8f9-80deef31ad50
+Path = /ab2008c2-72e7-4ea2-895e-13aff97771de
+Reference = LED7;
+ValeurCmp = VLMR233T2V2-GS08;
+IdModule  = SamacSys_Parts:LEDM2214X140N;
+EndCmp
+
+BeginCmp
+TimeStamp = 57a5082d-0631-46b3-bf46-52d2969acc03
+Path = /daac82bc-d6c0-46e4-a580-be2164091ed8
+Reference = IC6;
+ValeurCmp = CY8C4146AZI-S455;
+IdModule  = SamacSys_Parts:QFP50P1200X1200X160-64N;
+EndCmp
+
+BeginCmp
+TimeStamp = ca109eb6-c681-4b0e-aba4-9a37937b2566
+Path = /126d0085-1771-4dad-ae16-727d8a42f3ab
+Reference = R54;
+ValeurCmp = ERJ-2GEJ561X;
+IdModule  = SamacSys_Parts:RESC1005X40N;
+EndCmp
+
+BeginCmp
+TimeStamp = dbaf1d7b-a5da-4e7d-8f7d-004096c8c26d
+Path = /473ce9dc-a2ef-4dd2-ac3f-88290081204e
+Reference = R57;
+ValeurCmp = ERJ-2GEJ561X;
+IdModule  = SamacSys_Parts:RESC1005X40N;
+EndCmp
+
+BeginCmp
+TimeStamp = 5b73cfb9-79d2-49c8-bb1f-ee52c84dd7fe
+Path = /6b739c3b-af37-4f97-b454-c606b1596990
+Reference = R44;
+ValeurCmp = ERJ-2GEJ561X;
+IdModule  = SamacSys_Parts:RESC1005X40N;
+EndCmp
+
+BeginCmp
+TimeStamp = 47167568-7a64-4ef5-8d3b-506b4c1a0d27
+Path = /7da10990-4a5d-40d2-8ae0-4ef9b59a1f22
+Reference = R43;
+ValeurCmp = ERJ-2GEJ561X;
+IdModule  = SamacSys_Parts:RESC1005X40N;
+EndCmp
+
+BeginCmp
+TimeStamp = dca78bb4-c90e-46ed-9c88-b58a0771c0b5
+Path = /69bb6fa6-8539-4a2f-8d41-bb8cebd579f7
+Reference = R41;
+ValeurCmp = ERJ-2GEJ561X;
+IdModule  = SamacSys_Parts:RESC1005X40N;
+EndCmp
+
+BeginCmp
+TimeStamp = 04c72ff5-731d-4097-996f-90c5ee631828
+Path = /63210d51-230a-46e4-b706-c814606bc55d
+Reference = R46;
+ValeurCmp = ERJ-2GEJ561X;
+IdModule  = SamacSys_Parts:RESC1005X40N;
+EndCmp
+
+BeginCmp
+TimeStamp = 15781bdd-762e-4b24-97e8-decb9bca1dbf
+Path = /2ef2fed4-016b-46f5-9a69-3a04ed4a54db
+Reference = R45;
+ValeurCmp = ERJ-2GEJ561X;
+IdModule  = SamacSys_Parts:RESC1005X40N;
+EndCmp
+
+BeginCmp
+TimeStamp = 1fc3ce2d-9f29-4b69-8a20-08bae8698955
+Path = /1ed16b77-c7cd-4f31-8872-035d426024a7
+Reference = R47;
+ValeurCmp = ERJ-2GEJ561X;
+IdModule  = SamacSys_Parts:RESC1005X40N;
+EndCmp
+
+BeginCmp
+TimeStamp = 9d0a0030-37ca-4688-9006-7d67d016cef3
+Path = /1441c0ee-6615-419a-a944-a47ee5dc0d2e
+Reference = R48;
+ValeurCmp = ERJ-2GEJ561X;
+IdModule  = SamacSys_Parts:RESC1005X40N;
+EndCmp
+
+BeginCmp
+TimeStamp = fce152d8-f99c-4ba9-af5a-7361e253470b
+Path = /b8e2683b-dd5f-4333-a723-3bc79b525e7f
+Reference = R42;
+ValeurCmp = ERJ-2GEJ561X;
+IdModule  = SamacSys_Parts:RESC1005X40N;
+EndCmp
+
+BeginCmp
+TimeStamp = 985dfe36-4050-4eca-b5a3-5fa454477d39
+Path = /d605c9a0-ed93-4ba1-b743-db7493b813dd
+Reference = R49;
+ValeurCmp = ERJ-2GEJ561X;
+IdModule  = SamacSys_Parts:RESC1005X40N;
+EndCmp
+
+BeginCmp
+TimeStamp = b14e4eca-504f-49dc-a889-a5b49a6501ed
+Path = /b8f4ab79-ba05-4071-8ca0-f0077e63c493
+Reference = R51;
+ValeurCmp = ERJ-2GEJ561X;
+IdModule  = SamacSys_Parts:RESC1005X40N;
+EndCmp
+
+BeginCmp
+TimeStamp = eaf2c2d4-6f65-4cd8-a7fd-b6aca2abb603
+Path = /572dcf56-5f6a-4799-8a4c-b6edbd27ac6d
+Reference = R52;
+ValeurCmp = ERJ-2GEJ561X;
+IdModule  = SamacSys_Parts:RESC1005X40N;
+EndCmp
+
+BeginCmp
+TimeStamp = 8418e448-85ac-438e-9e53-f99718775f3d
+Path = /64c07352-a5ed-4497-8ecd-b7edc5578f35
+Reference = R53;
+ValeurCmp = ERJ-2GEJ561X;
+IdModule  = SamacSys_Parts:RESC1005X40N;
+EndCmp
+
+BeginCmp
+TimeStamp = f2372b1a-1a91-4b1f-957a-33b9ce9d3861
+Path = /b85cfa5f-15d8-488c-b857-20deccf91a94
+Reference = R58;
+ValeurCmp = ERJ-2GEJ561X;
+IdModule  = SamacSys_Parts:RESC1005X40N;
+EndCmp
+
+BeginCmp
+TimeStamp = 998ac390-3964-41bc-a3a4-5be36c7cd791
+Path = /b438b1c9-33f0-40ef-b3b0-110fd61b8755
+Reference = R50;
+ValeurCmp = ERJ-2GEJ561X;
+IdModule  = SamacSys_Parts:RESC1005X40N;
+EndCmp
+
+BeginCmp
+TimeStamp = 85e7bf43-33d6-4af8-9b7d-fb749e306df5
+Path = /1a91ee4f-9cd0-4a43-8f8d-a97faf569698
+Reference = R56;
+ValeurCmp = ERJ-2GEJ561X;
+IdModule  = SamacSys_Parts:RESC1005X40N;
+EndCmp
+
+BeginCmp
+TimeStamp = 309a20ac-d6d2-483c-a93c-c12f78579847
+Path = /dfbe8926-893a-4907-b48e-3d46418c3da3
+Reference = R55;
+ValeurCmp = ERJ-2GEJ561X;
+IdModule  = SamacSys_Parts:RESC1005X40N;
+EndCmp
+
+BeginCmp
+TimeStamp = 9b93f12a-042f-429a-8e1e-d2eb29bce65d
+Path = /c08ba4a8-aa25-426b-afc3-2ca07ffb6d36
+Reference = R26;
+ValeurCmp = RMC16K270FTP;
+IdModule  = SamacSys_Parts:RESC1608X55N;
+EndCmp
+
+BeginCmp
+TimeStamp = 0de42455-5e83-43af-9547-20a953e196e8
+Path = /7bfd6c01-d53d-44bd-a8f2-0202c4a12140
+Reference = R25;
+ValeurCmp = RMC16K270FTP;
+IdModule  = SamacSys_Parts:RESC1608X55N;
+EndCmp
+
+BeginCmp
+TimeStamp = c21dfd8f-7101-4214-9233-21083b35ba9a
+Path = /66e5909b-0fc9-4088-abb7-58165dacd0c6
+Reference = R24;
+ValeurCmp = RMC16K270FTP;
+IdModule  = SamacSys_Parts:RESC1608X55N;
+EndCmp
+
+BeginCmp
+TimeStamp = 1f88ea97-56c2-49ec-a7e2-eb908196e41b
+Path = /29b464cb-43ef-4e02-b4a1-27eeec9de738
+Reference = R23;
+ValeurCmp = RMC16K270FTP;
+IdModule  = SamacSys_Parts:RESC1608X55N;
+EndCmp
+
+BeginCmp
+TimeStamp = a8b44999-5a05-44f1-b193-8d01aeaa65c0
+Path = /1dc34118-7f45-4b19-b95a-a10ee48a3f5b
+Reference = R21;
+ValeurCmp = RMC16K270FTP;
+IdModule  = SamacSys_Parts:RESC1608X55N;
+EndCmp
+
+BeginCmp
+TimeStamp = 0cc5cd71-d292-45e9-9107-e91566c51ab1
+Path = /772023ce-35f7-46d4-93f2-1be3a0902a23
+Reference = R20;
+ValeurCmp = RMC16K102FTP;
+IdModule  = SamacSys_Parts:RESC1608X55N;
+EndCmp
+
+BeginCmp
+TimeStamp = c74ff571-3c68-4b80-8b63-007cf4091f69
+Path = /1b65289c-e571-4d52-a29e-49122c0d2e28
+Reference = R19;
+ValeurCmp = RMC16K270FTP;
+IdModule  = SamacSys_Parts:RESC1608X55N;
+EndCmp
+
+BeginCmp
+TimeStamp = 9abf01b2-9465-4955-9432-5ca237b75903
+Path = /84dd52ba-2322-4984-83f3-1464118fa402
+Reference = R18;
+ValeurCmp = RMC16K270FTP;
+IdModule  = SamacSys_Parts:RESC1608X55N;
+EndCmp
+
+BeginCmp
+TimeStamp = 40d24808-cc5f-400b-91e1-c816d64b3e9e
+Path = /a03353e7-23da-47bd-9cd1-f7d015712b06
+Reference = R17;
+ValeurCmp = RMC16K270FTP;
+IdModule  = SamacSys_Parts:RESC1608X55N;
+EndCmp
+
+BeginCmp
+TimeStamp = 23d748e7-8dea-4038-81b0-93c62fae20a3
+Path = /de0d2d51-cf32-49ad-82a8-b243601f68fc
+Reference = R16;
+ValeurCmp = RMC16K270FTP;
+IdModule  = SamacSys_Parts:RESC1608X55N;
+EndCmp
+
+BeginCmp
+TimeStamp = edb5ebed-19bc-4e2f-8e26-bd639c1696c3
+Path = /e92e5592-cce8-474e-9d25-206c0f24ac89
+Reference = R15;
+ValeurCmp = RMC1/16SK103FTH43;
+IdModule  = SamacSys_Parts:RESC1608X55N;
+EndCmp
+
+BeginCmp
+TimeStamp = 371de4d9-b9df-4897-9cdf-6a5c6f9b4d19
+Path = /88bfb779-d96e-46a2-8067-7248a8e9a2d4
+Reference = R13;
+ValeurCmp = RMC16K270FTP;
+IdModule  = SamacSys_Parts:RESC1608X55N;
+EndCmp
+
+BeginCmp
+TimeStamp = 79488873-f566-4714-88d2-fe7a26fe9060
+Path = /0dea8b92-dac4-4177-a246-644617a96372
+Reference = R12;
+ValeurCmp = RMC16K270FTP;
+IdModule  = SamacSys_Parts:RESC1608X55N;
+EndCmp
+
+BeginCmp
+TimeStamp = d1b2d952-7354-4281-846a-d1bea2a3c940
+Path = /08e283ac-9ba6-4a32-aeb1-9603010c8b04
+Reference = R11;
+ValeurCmp = RMC16K270FTP;
+IdModule  = SamacSys_Parts:RESC1608X55N;
+EndCmp
+
+BeginCmp
+TimeStamp = f545d01d-c637-449b-8564-02b2a8f88899
+Path = /b465529e-abbd-4e71-951e-7a991a03a309
+Reference = R10;
+ValeurCmp = RMC16K270FTP;
+IdModule  = SamacSys_Parts:RESC1608X55N;
+EndCmp
+
+BeginCmp
+TimeStamp = fe13ed17-737c-4839-8803-2b9bafe8aa57
+Path = /c851ef77-e4aa-4f51-b3d6-09a313e26e54
+Reference = R9;
+ValeurCmp = RMC1/16SK103FTH43;
+IdModule  = SamacSys_Parts:RESC1608X55N;
+EndCmp
+
+BeginCmp
+TimeStamp = 2b4d8044-12a8-4b24-a26a-02c437f25aa4
+Path = /3615ecdf-9a31-4134-86c2-a8b8566b799c
+Reference = R8;
+ValeurCmp = RMC1/16SK60R4FTH;
+IdModule  = SamacSys_Parts:RESC1608X55N;
+EndCmp
+
+BeginCmp
+TimeStamp = 17771eb1-6081-41f4-b91a-b84a62dec159
+Path = /a9bb81a0-6082-4eff-afa7-5f071b4a1a04
+Reference = R22;
+ValeurCmp = RMC16K270FTP;
+IdModule  = SamacSys_Parts:RESC1608X55N;
+EndCmp
+
+BeginCmp
+TimeStamp = dad4db06-9155-4b3e-832e-574bcdcad3bf
+Path = /cd89a103-4463-4df5-b141-6651ae829c1c
+Reference = R5;
+ValeurCmp = RMC1/16SK60R4FTH;
+IdModule  = SamacSys_Parts:RESC1608X55N;
+EndCmp
+
+BeginCmp
+TimeStamp = b8e098a9-ebf8-4cbe-89cc-e6332e58585c
+Path = /4e3d5b63-2dd4-44bf-88a8-9345ba9a9aed
+Reference = R7;
+ValeurCmp = RMC1/16SK60R4FTH;
+IdModule  = SamacSys_Parts:RESC1608X55N;
+EndCmp
+
+BeginCmp
+TimeStamp = ccfd7cab-c8e6-48cb-860f-0cfbbf0e854c
+Path = /2413d033-5cb4-4548-856c-c61ffa98dc10
+Reference = R4;
+ValeurCmp = RMC1/16SK60R4FTH;
+IdModule  = SamacSys_Parts:RESC1608X55N;
+EndCmp
+
+BeginCmp
+TimeStamp = 5dc75af4-d86a-4515-8a04-f45fa9f276a9
+Path = /10afd3bb-5345-4a10-aa1f-137ab21c1804
+Reference = R33;
+ValeurCmp = RMC1/16SK103FTH43;
+IdModule  = SamacSys_Parts:RESC1608X55N;
+EndCmp
+
+BeginCmp
+TimeStamp = 21fa9cd3-5684-4022-acee-916d60a5ee2b
+Path = /28117367-6d58-40c6-8ec7-9d4dfb4b86fb
+Reference = R31;
+ValeurCmp = RMC1/16SK103FTH43;
+IdModule  = SamacSys_Parts:RESC1608X55N;
+EndCmp
+
+BeginCmp
+TimeStamp = 410127df-91bf-4d7c-991c-9cd0f23e138b
+Path = /e2bff9ef-45ff-4299-b7fd-097ed19b08ec
+Reference = R29;
+ValeurCmp = RMC1/16SK103FTH43;
+IdModule  = SamacSys_Parts:RESC1608X55N;
+EndCmp
+
+BeginCmp
+TimeStamp = c4c8dcfa-f3b9-4369-9d83-fd4d94078f11
+Path = /72f01f8e-d4c5-4ece-b495-82ee54851f17
+Reference = R28;
+ValeurCmp = RMC1/16SK103FTH43;
+IdModule  = SamacSys_Parts:RESC1608X55N;
+EndCmp
+
+BeginCmp
+TimeStamp = d5429fa2-61a0-45f7-a749-b5d613d0fabb
+Path = /e891fd59-b9f5-4396-a5be-0f68598941bb
+Reference = R27;
+ValeurCmp = RMC16K270FTP;
+IdModule  = SamacSys_Parts:RESC1608X55N;
+EndCmp
+
+BeginCmp
+TimeStamp = 15b75ae2-9d8c-4247-afad-fb7c240daeaa
+Path = /385bfe77-f81d-4e7c-b8ec-882ca4ebe79e
+Reference = R6;
+ValeurCmp = RMC1/10K683FTP83;
+IdModule  = SamacSys_Parts:RESC2012X65N;
+EndCmp
+
+BeginCmp
+TimeStamp = 6e17a8c6-c340-4c99-b01f-90b0d8f3c2fe
+Path = /a590d863-7c81-49f7-9e0a-2b23c84503d3
+Reference = R14;
+ValeurCmp = RMC1/10K683FTP83;
+IdModule  = SamacSys_Parts:RESC2012X65N;
+EndCmp
+
+BeginCmp
+TimeStamp = 7376f17d-5531-480b-8e5b-aac57f6d9fe5
+Path = /f17d5753-786a-4cca-8c74-2a79063ea44a
+Reference = R3;
+ValeurCmp = RMC1/10K683FTP83;
+IdModule  = SamacSys_Parts:RESC2012X65N;
+EndCmp
+
+BeginCmp
+TimeStamp = 15cd6a5b-ec85-4dbc-b6eb-92677855507a
+Path = /82658bd6-8f89-48f1-866d-cac35e771894
+Reference = R2;
+ValeurCmp = RMC1/10K683FTP83;
+IdModule  = SamacSys_Parts:RESC2012X65N;
+EndCmp
+
+BeginCmp
+TimeStamp = bbfa84f4-694c-4efe-acc8-dd12ef7b41fc
+Path = /0e28d760-2080-420b-926e-592671b4d4ae
+Reference = R1;
+ValeurCmp = RMC1/10K683FTP83;
+IdModule  = SamacSys_Parts:RESC2012X65N;
+EndCmp
+
+BeginCmp
+TimeStamp = e81c824b-4b30-4973-9e27-04a6b7e15495
+Path = /36c9e7d6-64c5-46a0-8c9d-e1159ac1de03
+Reference = S1;
+ValeurCmp = SKTRAEE010;
+IdModule  = SamacSys_Parts:SKTRAEE010;
+EndCmp
+
+BeginCmp
+TimeStamp = 90be36e2-c41d-4aa6-adee-d2571a2f8a5d
+Path = /ae7c5d5a-a59e-4d69-b940-26b7719eb66a
+Reference = S2;
+ValeurCmp = SKTRAEE010;
+IdModule  = SamacSys_Parts:SKTRAEE010;
+EndCmp
+
+BeginCmp
+TimeStamp = 65acb8cf-9767-49c9-8549-701d470dc71f
+Path = /09ffa6df-64d6-4347-be83-e296c772c1ca
+Reference = Z2;
+ValeurCmp = UDZVFHTE5.6B;
+IdModule  = SamacSys_Parts:SODFL2512X90N;
+EndCmp
+
+BeginCmp
+TimeStamp = f7465fea-f8d5-4b3b-92c9-311a5d2d54f1
+Path = /664f5863-4202-43bd-af81-b09d9daa61dd
+Reference = Z3;
+ValeurCmp = UDZVFHTE5.6B;
+IdModule  = SamacSys_Parts:SODFL2512X90N;
+EndCmp
+
+BeginCmp
+TimeStamp = 8cac536e-eb96-420d-ba66-154be200744a
+Path = /a551c182-bc39-46fc-8781-64f79b8d4358
+Reference = Z4;
+ValeurCmp = UDZVFHTE5.6B;
+IdModule  = SamacSys_Parts:SODFL2512X90N;
+EndCmp
+
+BeginCmp
+TimeStamp = 5225e885-b6c0-4fae-a27a-0f6384b45f60
+Path = /53a38348-ab31-4ecd-9df2-5cf467b939ac
+Reference = Z5;
+ValeurCmp = UDZVFHTE5.6B;
+IdModule  = SamacSys_Parts:SODFL2512X90N;
+EndCmp
+
+BeginCmp
+TimeStamp = 5cfb161e-0026-4a71-bf7e-63a93f1fb6a5
+Path = /0d7006e4-8b68-4f29-9402-f19b83689b7c
+Reference = Z6;
+ValeurCmp = UDZVFHTE5.6B;
+IdModule  = SamacSys_Parts:SODFL2512X90N;
+EndCmp
+
+BeginCmp
+TimeStamp = 07285f3f-c029-4232-b412-addab67eb3a8
+Path = /a77f812e-0efa-4bac-bcec-709342c2eae9
+Reference = D4;
+ValeurCmp = M1F60-6063;
+IdModule  = SamacSys_Parts:SODFL3918X140N;
+EndCmp
+
+BeginCmp
+TimeStamp = 1b002596-0d81-47c8-8794-fcb85ffbdac0
+Path = /c38f4420-a8b8-4b9b-8879-994982058ff7
+Reference = D3;
+ValeurCmp = M1F60-6063;
+IdModule  = SamacSys_Parts:SODFL3918X140N;
+EndCmp
+
+BeginCmp
+TimeStamp = 1c526e14-0bb6-4e91-89ed-af6958b1a46e
+Path = /37029c86-5294-4dcf-9aa1-a7ae8e59a1e7
+Reference = IC5;
+ValeurCmp = SN65LBC176QDRG4Q1;
+IdModule  = SamacSys_Parts:SOIC127P600X175-8N;
+EndCmp
+
+BeginCmp
+TimeStamp = 1a42e915-e45b-461c-9607-1ac2d831fc96
+Path = /c728ca31-74e9-4880-bab0-83250b790cfd
+Reference = IC4;
+ValeurCmp = SN65LBC176QDRG4Q1;
+IdModule  = SamacSys_Parts:SOIC127P600X175-8N;
+EndCmp
+
+BeginCmp
+TimeStamp = 9fd02881-9b93-451b-98d6-75fa0d63fcd6
+Path = /022b5f8a-39f1-48de-994e-9a86f0087925
+Reference = IC3;
+ValeurCmp = SN65LBC179AD;
+IdModule  = SamacSys_Parts:SOIC127P600X175-8N;
+EndCmp
+
+BeginCmp
+TimeStamp = 44cea53d-e437-4295-86c1-cc3d2eb3d6e2
+Path = /a36c6f3e-19e1-423e-8afe-fff5d8303e6f
+Reference = IC2;
+ValeurCmp = R5112S121B-E2-KE;
+IdModule  = SamacSys_Parts:SOIC127P620X160-9N;
+EndCmp
+
+BeginCmp
+TimeStamp = 70df0ccf-6171-4d5f-84a4-6b24893353cc
+Path = /ff73cc3e-e016-437e-9f1e-2793d3732eba
+Reference = D1;
+ValeurCmp = PESD5V0L2BT,215;
+IdModule  = SamacSys_Parts:SOT95P230X110-3N;
+EndCmp
+
+BeginCmp
+TimeStamp = 3a595169-677a-4d7f-91e4-e29053e1b54b
+Path = /8ed724c5-7799-45b7-8900-e8d31adfe516
+Reference = D2;
+ValeurCmp = PESD5V0L2BT,215;
+IdModule  = SamacSys_Parts:SOT95P230X110-3N;
+EndCmp
+
+BeginCmp
+TimeStamp = 96608d63-dda5-46a1-a889-efcf39268d42
+Path = /fdd5588c-4e24-4c99-8b73-431b1034a2c8
+Reference = IC1;
+ValeurCmp = S-19212D50A-M5T1U;
+IdModule  = SamacSys_Parts:SOT95P275X130-5N;
+EndCmp
+
+BeginCmp
+TimeStamp = 11abb022-f546-415e-bf94-65d91d2db2b6
+Path = /a2512288-280b-4ad2-b210-8f0400c44e8f
+Reference = Q3;
+ValeurCmp = SSM3K7002KFU,LF;
+IdModule  = SamacSys_Parts:SSM3K7002CFULF;
+EndCmp
+
+BeginCmp
+TimeStamp = 72ea9fb8-56e2-456b-9719-3bc93d56ce46
+Path = /0da824a9-8799-46f7-a152-37a432ad4a8e
+Reference = J2;
+ValeurCmp = XF2M-3815-1A-R100;
+IdModule  = SamacSys_Parts:XF2M38151AR100;
+EndCmp
+
+BeginCmp
+TimeStamp = e865d443-39d0-4333-a19f-c13a836e1dbc
+Path = /43dc582b-e968-4536-a104-c5c568c4dc84
+Reference = J1;
+ValeurCmp = Conn_01x10;
+IdModule  = Connector_JST:JST_XH_B10B-XH-A_1x10_P2.50mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 834ac165-440d-43ef-9599-ea4101394fb3
+Path = /022d5235-2b49-48ab-85fc-e4461bf52e98
+Reference = Q2;
+ValeurCmp = BC848W;
+IdModule  = Package_TO_SOT_SMD:SOT-323_SC-70;
+EndCmp
+
+BeginCmp
+TimeStamp = 69297dcc-9aaa-4335-b4e6-907158c15c8b
+Path = /e3b34ff9-fe9e-483d-a757-20c917236913
+Reference = Q1;
+ValeurCmp = BC807W;
+IdModule  = Package_TO_SOT_SMD:SOT-323_SC-70;
+EndCmp
+
+BeginCmp
+TimeStamp = fba0afd1-efa2-4caf-9f9d-5456d6ba41dc
+Path = /29f8fdcf-b546-416c-999b-0f8c107443b8
+Reference = TP117;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = a11b9ba5-60fa-4aa0-afdb-77693a793196
+Path = /afbfdf3b-47f4-4724-bed1-3044ed4617c1
+Reference = TP116;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = ec2208f7-74a3-44c9-aa54-1692ab74ca75
+Path = /d5dc3dd3-9a34-44e0-9d68-e670663e0aa9
+Reference = TP115;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 60bc444e-05f5-4ef1-8554-91778138bb26
+Path = /5c7ff3dc-ae42-4efc-8d7a-89e697f8de24
+Reference = TP114;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 0cf0fc59-5792-46e5-aeac-447f3f517aeb
+Path = /1cb3ca04-5512-4c48-8ce9-06ca558bd2b3
+Reference = TP113;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = a2873ad2-2073-4334-bbe2-a3a4aa16828b
+Path = /f7f8c10f-87d9-45b8-9c92-806cab9ea7cf
+Reference = TP112;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 2c0ccfc4-76a9-4662-b602-e8158276cf14
+Path = /a6896c03-6034-4853-b638-a7f5e3efd8f1
+Reference = TP111;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 3d19b870-7f81-422e-947c-d5555ee4b225
+Path = /cc4edd02-3b6d-417d-9dc1-5f93a1a3ea87
+Reference = TP110;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5268ce8a-0946-47a5-ae3d-ff84485fbbdb
+Path = /72c827ce-cc4a-4456-aa79-c882a164f69c
+Reference = TP109;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = c5a52ba5-7485-4465-b293-ca9e00dc0492
+Path = /ecb02138-5eb0-4b3f-a364-0a8b1b73cab2
+Reference = TP108;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = a4f83d41-5a52-402a-a860-50b218c84517
+Path = /b6161d3b-edcd-40c3-844e-609bd709a6ca
+Reference = TP107;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 284bfbb8-c582-4680-a992-1400bb1ff26a
+Path = /69f9a4d6-4b0b-4579-986e-0dae01848ba4
+Reference = TP106;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 35eb5f9f-3e80-4105-85a0-65da2042f3bf
+Path = /d262ac81-c961-422f-8533-edd1a8bd79db
+Reference = TP105;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 46099311-e9a2-4ea1-afdb-fd09b76e11de
+Path = /a771fefe-a84b-4eb1-9837-4126b73651b0
+Reference = TP104;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 76cb10fb-a0ed-4824-a183-d784e8c39714
+Path = /8a818c7a-828c-415f-9db5-0c20b0713839
+Reference = TP103;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = da1201d0-06e3-4912-9ab3-65deb985ea97
+Path = /a079dbba-1c51-421f-be40-c0d519382574
+Reference = TP102;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 916d6998-3872-4acf-b5f2-8932e2f1f7ec
+Path = /3c68b08b-0e03-47d0-b896-d3a9cc063770
+Reference = TP101;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = ff3476da-ff02-4a6d-b037-9bd1ae767b28
+Path = /dca74103-064a-4939-86ba-df0fa00d7aca
+Reference = TP100;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 9659c153-28d7-4d31-bfc7-a06002f66e78
+Path = /073c1399-0bc7-47c8-a4f6-136a6bfec0c7
+Reference = TP99;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = c4d86590-22f0-4b9a-92c7-ff4d476457b6
+Path = /88963443-250b-45a4-a3f0-e5d343055748
+Reference = TP98;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 26492ac2-b45c-4c86-a882-56224258e3c6
+Path = /283939ae-2817-4d2e-b0ca-1976cf63f4ae
+Reference = TP97;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 7bf98905-f9d9-47cf-b4d4-0bbaa16eea36
+Path = /ddb51383-6a3d-4495-9fd5-0a64b9f96956
+Reference = TP96;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 47975b6e-178f-4595-92ea-953ca3b816df
+Path = /06b3da75-bacb-4e06-bf83-ae60d444f77e
+Reference = TP94;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 7aadbbe0-93c4-4679-bdad-d81e6fbc7f74
+Path = /733543a2-d6e1-49b2-a6a2-16880ee43441
+Reference = TP93;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = be88390c-6fc5-4284-80ca-8d008d199be3
+Path = /af205ecb-5eed-401c-8b48-e3c72be717a1
+Reference = TP92;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 36a15cfd-ddec-443a-839b-d7ee1471de4f
+Path = /2b92a157-5fc9-46f8-a34b-eb54605538ea
+Reference = TP91;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 72a7a36f-27f3-4f83-85cf-57bc43c18490
+Path = /c3160e66-c722-42af-9a61-c165e7e27463
+Reference = TP90;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = c8f99a04-9afe-4aa1-8937-087aa843ae5a
+Path = /a19b9a3b-9edb-4a15-ae7c-d98bd3629758
+Reference = TP89;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 0b8bd13b-4ffe-4451-8ea7-3a3e0b617c90
+Path = /bef1d300-17c6-4f80-b440-c09c4441d710
+Reference = TP88;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = c419482a-cab8-4ccb-bfc3-653869edafab
+Path = /a27e0f8a-3053-4bb0-8602-c89884e31f12
+Reference = TP87;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 02420cd9-90fa-47af-b4fd-90411ae4c62d
+Path = /d133f095-0b15-456d-aba4-abf20102e2a8
+Reference = TP86;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = adb27e7f-09e7-444a-83ae-e6da15dfce92
+Path = /6548e16e-7cb4-457c-8ab1-bc84fb0e0204
+Reference = TP85;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = a231eee0-4f56-4702-a4ab-c08a31a93ec2
+Path = /f1d1ff37-2904-4bed-8e90-1ef81d27a2f6
+Reference = TP84;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 9c23018d-3d3d-42c2-b306-c2986e438a15
+Path = /e363abe8-efc6-4aa2-9016-8eca980ed85d
+Reference = TP83;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 55ee04c8-985e-4383-8286-cfe6912f5b33
+Path = /c584c605-851f-4fa9-b6c8-46355c16dab0
+Reference = TP82;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 6e584865-3f18-4d18-86f0-4df2a9cbc807
+Path = /e7657db3-fb72-4021-8aef-2a3e2af44c7b
+Reference = TP81;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = d546776b-5510-4269-bbe9-a69ebfc33342
+Path = /d7f09fdc-4399-4565-ad1f-6c10a1b245c1
+Reference = TP80;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 42b08797-5f66-46b7-b937-af0b3e2ff1b8
+Path = /bd96633f-3c59-49ad-915d-eff636b3c71a
+Reference = TP79;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 50c57b25-d03f-4186-8b64-4e59bf4f2ff4
+Path = /618af84c-1eda-4554-81ac-7562429e0e15
+Reference = TP78;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = b61780de-305e-4e07-96f9-62dff6e31ab7
+Path = /ae83b272-0ca6-4dee-bc83-1f7ac75f3449
+Reference = TP77;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = bd52cd5c-c729-495d-bc8c-f827f86e9e02
+Path = /5275c48a-c0cf-46c7-8443-ecb8ccdd67d5
+Reference = TP76;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 1f46bb38-28f0-4426-9dfd-2c561c0a1fd5
+Path = /ef52776a-ac28-48da-8d11-7a875614306b
+Reference = TP75;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 54428739-d348-4b24-a7f6-df89b609fa32
+Path = /7351727e-e66b-40a4-8b74-d0db61fadb23
+Reference = TP74;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = bbe16407-cd1a-404f-8252-81321bb3ac37
+Path = /372f1212-1656-407a-a98b-eb60510fc27d
+Reference = TP73;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = d0e99bab-3188-4d80-8d76-931d0ffc1d34
+Path = /f9fb06b7-2f9b-4b8c-ae8a-a7f158e62d8d
+Reference = TP72;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = dd6dadb4-834d-4ec9-bc74-5949a466a16f
+Path = /6cddb8fa-41f2-4be3-a7d6-6d03449c0b87
+Reference = TP70;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 1bdb3616-a8ef-4887-97ae-bb7b916aa09c
+Path = /5c9379fa-3ebb-42cf-b753-d6a8b8105b4f
+Reference = TP69;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 0bedce44-8db5-4fb8-87e5-4df6519f41b0
+Path = /1a527247-4860-43d2-9998-c72f69f7ffda
+Reference = TP68;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = eccbc328-8a1f-44a2-aa8e-8a18701cc2c5
+Path = /d638f64c-1d33-4f0d-8360-45ae9df3c7da
+Reference = TP67;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 25e85d2f-0c82-4b7a-ac3b-761125b39ae8
+Path = /23f41f79-2651-4c2a-8127-86235fa3cfd8
+Reference = TP66;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 82ede833-d715-4846-a9c0-ddc14f92332b
+Path = /9dc1ae07-4865-4918-b4ba-afaa0deb044c
+Reference = TP65;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = cc75c224-8267-4cb5-874e-33febd871eeb
+Path = /0fcf2dae-f2e0-4156-9ce5-de1c925e9a1b
+Reference = TP64;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 4e95c39b-f2dd-45a7-beaa-d3e8806de707
+Path = /48036a4f-c803-413a-b809-cd1836b0c7db
+Reference = TP63;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 2429025e-a15f-46f6-b6d9-1003b910159d
+Path = /fa134602-b5af-493a-9ce1-46c0e40285e4
+Reference = TP62;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 26650a6e-3a59-4d7c-9f38-554024a896e6
+Path = /edba0aff-326f-4d46-b3da-257144141c08
+Reference = TP60;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = a9cdb02a-11a9-4d90-b18a-52dd41ccec0c
+Path = /4e47e840-7267-4b28-9e02-cfedeb7f21a6
+Reference = TP59;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 7b3b25c8-2ae4-4e79-a1e3-c0bf21c34d67
+Path = /4fb43467-35dd-482f-a330-1b4ac322e56b
+Reference = TP58;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 12578706-5bd1-4b35-b959-d2c851951f2e
+Path = /521622f0-69cb-45a6-88af-71dc12086a4c
+Reference = TP57;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = be3e921a-c47a-42e8-8fdf-b70053a7d15f
+Path = /8750e1c7-0524-433c-b0de-8e4cfef2561a
+Reference = TP56;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = e1bfb45b-00b5-4f7a-b8d5-96a05267a2c3
+Path = /4cb2d0f9-8fde-4787-9d6c-e86c31fcb762
+Reference = TP55;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 1c26d53b-d535-470f-b11a-b542cb122d6b
+Path = /f803d947-6236-47c2-ad45-af0442924d37
+Reference = TP54;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 6b27640a-f939-4af6-af8b-37e4e2756bcc
+Path = /d8502f15-66c1-45ec-aa78-28dd1ebb47e9
+Reference = TP53;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 18c137fe-01df-4750-859e-67265ebcf5a2
+Path = /1c4e440d-e07d-42a5-8082-865a4e14b48f
+Reference = TP52;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 0cfbe67f-2809-45bc-883d-a2ad8c5b3b97
+Path = /d38a306b-8800-4edb-a7a8-664147b2e55a
+Reference = TP49;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 147924cd-f26e-47a1-b87f-029db160c5d8
+Path = /6184035a-b8db-4a52-9e80-36bc319d45c3
+Reference = TP48;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = d0129a01-1e10-40c7-9eff-7658d02046fe
+Path = /7002a62c-dc19-4e85-a924-4535eaaaa8c0
+Reference = TP47;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 162d032d-d7ce-4d9f-964a-952fa5b8682c
+Path = /c32c8cc0-9e77-4b58-90e4-1115eb2d0351
+Reference = TP46;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = c96d2bf6-8f51-44d4-a4e5-e87e1d48ccdd
+Path = /082bf6fc-b9f4-43a1-88cb-debe479803b0
+Reference = TP44;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5841a627-5d37-470b-a27f-bf24826946c7
+Path = /61926a62-16cc-4454-bf8e-a45100ca2a2e
+Reference = TP43;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = edba496b-0ec6-4bee-b1eb-6044192aa576
+Path = /1bfc157f-69cf-4bb1-9acc-1e96ac87e972
+Reference = TP42;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 82f92e76-dd2e-4f50-a512-3bc238c14c6e
+Path = /38b86332-bdf8-4427-888a-7387aadebd9f
+Reference = TP41;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 2b55bb58-d604-4a1c-8f6e-342b84196dfe
+Path = /f8d5ce27-cc2c-475c-bd8b-52e88d564b11
+Reference = TP40;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 8f4a2d03-e9ff-462e-96ab-2465512030f0
+Path = /f8616af4-bc5b-41f1-8a48-ca5c3b4db10f
+Reference = TP39;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = bf8a282f-14bf-4442-91a5-9891e7bb32c5
+Path = /2f38254c-508e-4981-ab0a-b28e9ee4ce81
+Reference = TP38;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 41d0d94d-8726-4d7f-a8c2-4621ae11f164
+Path = /be1a7d11-e95c-49bd-b83c-526f430fc6f4
+Reference = TP37;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 71ba75f2-ab51-42f0-86e2-8e077d79bd84
+Path = /0af51583-c90e-4c3b-aadb-39eb2caf7818
+Reference = TP34;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 187a3a8a-24e8-4164-a5fa-df98216d4ec6
+Path = /823f25cf-66b0-4e02-a4a0-a7a95466af7f
+Reference = TP36;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 074dde9d-e1cd-4173-8568-6554093d8fe6
+Path = /56ccc6ff-bb1a-486e-a3ac-ba4285ad97f3
+Reference = TP35;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 4c38f94d-0aae-4be8-bda6-3bfedeb932fe
+Path = /6919d3ae-8f6a-4273-a935-32d3700c8ad9
+Reference = TP33;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 72138002-0e48-44ac-b60b-7e1fd5dfc3bd
+Path = /8ec7df08-04ea-4ddf-9403-fe3a15504c8d
+Reference = TP32;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 66b822da-ef86-40e3-8947-ece4684a9c4c
+Path = /91ccaaf8-6f82-4f36-bdb8-add5d3e536e0
+Reference = TP31;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 96cb1070-29ac-411d-bdf0-575e478db186
+Path = /49bc862c-cba4-4bd9-895b-51b3e6c9edbe
+Reference = TP30;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 8a095846-7f9b-45f5-9cfd-e19329d3730e
+Path = /a0a8a2e0-9630-42e8-8abf-1a9ca13d1678
+Reference = TP29;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 70b6cfe7-eff9-4b1e-bed6-71ed3ca1c990
+Path = /80a33849-98b6-4735-a3c3-d04d19a17e41
+Reference = TP28;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 9f135947-a546-4192-88cc-52fe0fc6c33a
+Path = /744df14e-1a0c-4782-b137-500763eddf4c
+Reference = TP26;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = f8f30c5a-e5d8-4f73-8e0c-6f549eafd8b1
+Path = /2186c800-3625-4d16-9830-f319b97b8efa
+Reference = TP25;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 450a83b8-ac48-46d3-8af4-3cee134683a2
+Path = /1621f137-1682-40e3-bdf7-48ec1167a6ed
+Reference = TP24;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 6c374874-f674-4c98-9b94-ed79f899548c
+Path = /d28ba26e-06d3-4d66-9907-6d4d178a7824
+Reference = TP23;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 0e86f3c9-64f0-49fa-8cb6-4e64cd531454
+Path = /e43bc326-e9eb-444d-88fe-780395bb3d04
+Reference = TP22;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 9725399f-2a5b-48dd-8fc8-fe86f1a9fc7e
+Path = /200f4cea-a65e-4fad-99dd-f7f629505fea
+Reference = TP21;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 1384446f-d036-479a-b6cd-abeae9718206
+Path = /6ff499c0-f2da-4a5b-8e63-6d40b5343b5d
+Reference = TP20;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = dd02dd55-7cf2-4405-bdff-5be84eeaa937
+Path = /86357bd0-6de0-4683-8649-4d6f4f39dcb4
+Reference = TP19;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 27542c2b-b4bf-45f3-8528-0ae3cab6a197
+Path = /05de120f-ec8a-4eb2-a62f-d6cc1b969922
+Reference = TP18;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5989768f-68e8-4a8f-ba92-79e098ef3341
+Path = /4b21b52d-620d-4176-913f-2fbbf502ce44
+Reference = TP17;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 588da145-812c-4de5-a662-46765a2d9a48
+Path = /917abd53-c217-4629-9cb0-b22e06d886ce
+Reference = TP16;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = eee4411b-c157-4ea1-b300-529f65ca6117
+Path = /4e3ed07e-254d-42ca-a921-38afbdb9c270
+Reference = TP14;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = ef850b52-efea-409e-9ae3-0ac7e12e39e9
+Path = /d3aa99e8-7a33-4886-aa05-f099e05d8124
+Reference = TP12;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = ff219279-e5e9-4394-97fa-df990b01f9a8
+Path = /74f4d0ca-35e0-4231-82ce-cb2e83960310
+Reference = TP11;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = cd7d2269-393b-479e-a94a-50633a32fc95
+Path = /4fe10298-7743-4659-9fb0-2d3dd1684c8b
+Reference = TP10;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 437e03d2-5981-4e62-b154-9f4afedf8052
+Path = /77181b33-bb89-4d11-bf13-f039692df073
+Reference = TP9;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 290d2ed6-1173-495c-8704-7fea604ba827
+Path = /e3578d0c-aa5e-47e4-9db6-cb4e607f694d
+Reference = TP8;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 26d16065-ebc8-4b9c-8e22-61fc558877e9
+Path = /26b81304-6d24-4e72-a9fa-c289c8e457aa
+Reference = TP7;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 3eb18e0e-08c5-4a7c-8ea7-9f617b56b4e5
+Path = /55c146eb-f6bb-478f-89a8-5d0fc31a62a1
+Reference = TP6;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = f312f871-5c5e-4263-868f-67e5436181f7
+Path = /dec1d181-5209-4860-8110-a33b74eacdd6
+Reference = TP95;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = f7e39b89-96e6-4c52-9375-c3a0c09db963
+Path = /3913d90c-41fb-4809-8cdd-418eb33f3bfc
+Reference = TP118;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = d6ed4183-0214-46ed-9c4b-bbc161a8feb4
+Path = /847c6ae5-ed98-4391-b8f7-0e2b7ccee5f2
+Reference = TP5;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D2.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = bc71ee78-bd5a-4dcb-b36a-9775d18f9e6c
+Path = /7d04f575-70fe-47c6-b9e0-f3ce8104b160
+Reference = TP13;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D2.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 4fb130f6-e856-40cd-88d8-53d77b37be0d
+Path = /f9543368-3560-47d0-8c18-6e5cc33435e0
+Reference = TP15;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D2.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = f65fc57e-2a1f-4cf9-a03a-f078c41da7ab
+Path = /4c3c794a-5b3a-4d98-bf30-f96780426cd8
+Reference = TP27;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D2.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 579aedb1-020a-4416-90e5-29232530c57b
+Path = /c2144bc5-d008-45e3-91ee-d5447ec1e303
+Reference = TP45;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D2.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 1d8bc028-c7f1-418b-a898-c6b028f657f8
+Path = /9a1e7325-d28e-4528-8cbb-2f919b1998e8
+Reference = TP50;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D2.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 7db69d31-c0d2-4506-9dbb-3ff287eb750c
+Path = /25983ef9-9de5-42e9-8582-7e8ac74a55c0
+Reference = TP51;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D2.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 0a6e529a-4eff-46a7-a686-7449a0219526
+Path = /fbe3aaa9-0ccc-4015-bbd8-f2297fb0128b
+Reference = TP61;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D2.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 2b8e20ef-ee8a-4f29-9d53-c0055bff4f6f
+Path = /6823b575-e1ed-4ba8-8366-b2f16af61f39
+Reference = TP71;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D2.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = b2656454-e988-45bb-a343-308af7f9bbec
+Path = /10adb0a7-7228-4278-948a-9e6a11f1e107
+Reference = TP4;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D2.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = b4b0e05e-001c-469f-9248-b28290fc0fd7
+Path = /44c2210d-f508-47d7-ae0d-45e6fd992cdc
+Reference = TP3;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D2.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = c4512b9b-8a11-416c-b342-d83eec6c2ed3
+Path = /87dc5af4-fdbc-4ff1-a1b7-d5d3d0f01bdb
+Reference = TP2;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D2.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5828eb09-2d7a-4ec6-b9e0-9d358cba5f46
+Path = /1bce27e7-7eeb-4f29-acca-6394613c48b8
+Reference = TP1;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D2.5mm;
+EndCmp
+
+EndListe
